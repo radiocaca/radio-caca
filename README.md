@@ -20,3 +20,13 @@ https://bscscan.com/address/0xd9537eb0750767e1c16734e6ba5eb27d98933a04
 https://bscscan.com/address/0x5ec2254e713f349de9fe42d0e68d363ebce24416
 ```
 
+### 2022-05-28
+Airdrop 280 million RACA of market fee to all MPB at 8:00 AM, May 28, UTC.
+
+Airdrop Transactions:
+```
+https://bscscan.com/address/0x0a88cc13327bdec7d0d78fb02dbd6d3f967a542d
+
+https://bscscan.com/address/0x4686a027a69a92c9add4d37d9a949fa2759ee094
+```
+
